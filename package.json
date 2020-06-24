@@ -1,0 +1,28 @@
+{
+  "name": "weather-journalist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavel-nukalo/weather-journalist.git"
+  },
+  "author": "Pavel Nukalo",
+  "license": "MIT",
+  "homepage": "https://github.com/pavel-nukalo/weather-journalist#readme",
+  "dependencies": {
+    "@firebase/firestore": "^1.15.3",
+    "axios": "^0.19.2",
+    "config": "^3.3.1",
+    "cyrillic-to-translit-js": "^3.1.0",
+    "firebase": "^7.15.3",
+    "node-telegram-bot-api": "^0.50.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

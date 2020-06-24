@@ -1,0 +1,20 @@
+{
+  "TelegramBot": {
+    "token": "",
+    "options": {
+      "polling": true
+    }
+  },
+  "OpenWeather": {
+    "appID": ""
+  },
+  "Firebase": {
+    "apiKey": "",
+    "authDomain": "",
+    "databaseURL": "",
+    "projectId": "",
+    "storageBucket": "",
+    "messagingSenderId": "",
+    "appId": ""
+  }
+}
