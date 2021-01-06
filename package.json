@@ -16,7 +16,7 @@
   "homepage": "https://github.com/pavel-nukalo/weather-journalist#readme",
   "dependencies": {
     "@firebase/firestore": "^1.15.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "config": "^3.3.1",
     "cyrillic-to-translit-js": "^3.1.0",
     "firebase": "^7.15.3",
